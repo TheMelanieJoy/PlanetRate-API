@@ -1,0 +1,42 @@
+{
+    "item": [
+        {
+            "id": 1,
+            "name": "Montreal Canadiens",
+            "average": 5.7,
+            "ratingsCount": 3,
+            "reviews": [
+                {
+                    "id": 4507,
+                    "title": "Best hockey team",
+                    "average": 9.8,
+                    "comment": "The purpose dries the word with an inform",
+                    "reviewdBy": "Michel Spicer",
+                    "createdDate": "2017-12-12 23:19:03"
+                },
+                {
+                    "id": 5863,
+                    "title": "This team cannot even win a game",
+                    "average": 5,
+                    "comment": "When can his tin consequence rend the treat?",
+                    "reviewdBy": "Joe Doe",
+                    "createdDate": "2018-03-25 15:09:22"
+                },
+                {
+                    "id": 4450,
+                    "title": "I am going to cheer for Toronto Maple Leafs",
+                    "average": 2.2,
+                    "comment": "The classic swallows into an injured mystic.",
+                    "department": "John Pebble",
+                    "createdDate": "2017-12-08 02:55:27"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Boston Bruins",
+            "average": 1,
+            "ratingsCount": 5
+        }
+    ]
+}
